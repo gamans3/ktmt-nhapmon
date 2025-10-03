@@ -16,7 +16,7 @@ https://github.com/gamans3/ktmt-nhapmon.git
 ## Conflict
 - File: README.md
 - Người xử lý: Đoàn Quốc Trung
-- Cách làm: merge origin/main, sửa markers trong file, commit và push
+- Cách làm: merge origin/main, sửa markers trong file, commit và push.
 - pull request đã xử lí conflict: https://github.com/gamans3/ktmt-nhapmon/pull/4
 
 ## Tag
