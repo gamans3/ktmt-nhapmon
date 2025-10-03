@@ -21,3 +21,8 @@ https://github.com/gamans3/ktmt-nhapmon.git
 
 ## Tag
 - v1.0:https://github.com/gamans3/ktmt-nhapmon/releases/tag/v1.0
+## lệnh git sài nhiều nhất
+- git push
+- pit add
+## khó khăn
+- nhóm khó khăn trong việc chuyển đổi file lên trang web github qua git push do gặp trục trặc về việc tạo liên kết giữa git và đường liên kết
