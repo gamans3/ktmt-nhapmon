@@ -25,7 +25,8 @@ https://github.com/gamans3/ktmt-nhapmon.git
 - git push
 - git add
 ## khó khăn
-- nhóm khó khăn trong việc chuyển đổi file lên trang web github qua git push do gặp trục trặc về việc tạo liên kết giữa git và đường liên kết
+- nhóm khó khăn trong việc chuyển đổi file lên trang web github qua git push do gặp trục trặc về việc tạo liên kết giữa git và đường liên kết. Đặc biệt là sử lí gặp khó khăn đến các chức năng trong github như workflow
+
 
 
 
