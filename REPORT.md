@@ -6,7 +6,7 @@ https://github.com/gamans3/ktmt-nhapmon.git
 ## Thành viên
 - Nguyễn Tấn Lộc– 25119171 – thêm file cá nhân, viết báo cáo
 - Đoàn Quốc Trung – 25119171 – chỉnh sửa README, review PR
-- Phan Minh Triết – 25119169 - Đỗ Thiên Hùng -25119090  – cấu hình GitHub Actions
+- Phan Minh Triết – 25119169 - Đỗ Thiên Hùng -25119090  – tìm hiểu và làm GitHub Actions với chuẩn bị file .gitignore
 
 ## Pull Requests (đã merge)
 1. https://github.com/gamans3/ktmt-nhapmon/pull/4
@@ -26,4 +26,5 @@ https://github.com/gamans3/ktmt-nhapmon.git
 - git add
 ## khó khăn
 - nhóm khó khăn trong việc chuyển đổi file lên trang web github qua git push do gặp trục trặc về việc tạo liên kết giữa git và đường liên kết
+
 
