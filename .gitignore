@@ -1,0 +1,19 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# NodeJS
+node_modules/
+npm-debug.log
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
