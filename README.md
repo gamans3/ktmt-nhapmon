@@ -1,5 +1,2 @@
 # ktmt-nhapmon
-Dự án đầu tiên của tôi.
-Đoàn Quốc Trung
-mssv 25119171
-Tôi là tsv ngành công nghệ kỹ thuật máy tính
+Dự án github nhóm đầu tiên của nhóm 3( thông tin thành viên được đặt trong members). Thông tin chi tiết hoạt động trong file REPORT
