@@ -1,5 +1,2 @@
 # ktmt-nhapmon
-Dự án đầu tiên của tôi.
-Đoàn Quốc Trung
-mssv 25119171
-Tôi là tsv ngành công nghệ kỹ thuật máy tính, sở thích đánh cầu lông
+Dự github nhóm đầu tiên của nhóm 3( thông tin thành viên được đặt trong members)
